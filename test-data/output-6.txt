@@ -1,0 +1,3 @@
+SUCCESS     #GT4500 ship with empty torpedo stores
+FAIL        #Single fire fails
+FAIL        #All fire fails

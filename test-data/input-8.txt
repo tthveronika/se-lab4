@@ -1,0 +1,3 @@
+#Tries fireing ALL torpedos but secondary is empty
+GT4500,1,0,0,0      #Ship with empty secondary store
+TORPEDO,ALL         #Fires only primary

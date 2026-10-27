@@ -1,0 +1,3 @@
+SUCCESS     #GT4500 ship created
+SUCCESS     #primary fires
+SUCCESS     #primary again fires

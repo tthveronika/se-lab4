@@ -1,0 +1,4 @@
+# Secondary store was last, but primary is empty, retries secondary but it is empty --> FAIL
+GT4500,0,0,1,0      # GT4500 ship with empty primary store and 1 torpedo in secondary
+TORPEDO,SINGLE      # Secondary fires
+TORPEDO,SINGLE      # Both empty so fails

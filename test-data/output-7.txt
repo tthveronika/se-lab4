@@ -1,0 +1,3 @@
+SUCCESS     #Ship created
+SUCCESS     #Secondary fires
+FAIL        #Empty stores
