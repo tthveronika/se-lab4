@@ -1,0 +1,4 @@
+#If primary store is empty the ship should fire the secondary both times
+GT4500,0,0,2,0 # Create a ship with empty primary torpedo store (both never fails)
+TORPEDO,SINGLE       #should fire secondary
+TORPEDO,SINGLE       #should fire secondary

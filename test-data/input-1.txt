@@ -1,0 +1,5 @@
+#Alternative fireing test
+GT4500,2,0,1,0  # Create a ship with stocked torpedo stores that never fail
+TORPEDO,SINGLE  # should have fired from the primary store
+TORPEDO,SINGLE  # should have fired from the secodary store
+TORPEDO,SINGLE  # should have fired from the primary store again

@@ -1,0 +1,3 @@
+SUCCESS #ship
+SUCCESS #fires both
+SUCCESS #tries both, only one fires
